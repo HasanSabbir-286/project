@@ -1,0 +1,12 @@
+Apple
+Banana
+Python
+Orange
+Computer
+Cow
+Tea
+Blood
+Wolf
+Tiger
+Jack
+Student
